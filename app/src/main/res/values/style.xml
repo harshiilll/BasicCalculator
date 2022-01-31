@@ -1,0 +1,16 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!--button style and funtion-->
+    <style name="btnOperationStyle">
+        <item name= "android:onClick" >compute</item>
+        <item name="android:layout_margin">@dimen/button_margin</item>
+        <item name="backgroundColor">@color/white</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:textSize">35dp</item>
+    </style>
+
+
+</resources>
+

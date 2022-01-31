@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="space">60sp</dimen>
+    <dimen name="text_size">30sp</dimen>
+    <dimen name="button_margin">3sp</dimen>
+    <dimen name="answer_size">30sp</dimen>
+</resources>
